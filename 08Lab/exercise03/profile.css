@@ -1,0 +1,19 @@
+h2{
+  background-color: #e76f51;
+  font-family: fantasy;
+  color: white;
+}
+p{
+  background-color: #f4a261;
+  color: white;
+}
+body{
+  background-color: #264653;
+  color: white;
+}
+a{
+  color: #e9c46a;
+}
+div.image {
+   content:url(https://randomuser.me/api/portraits/men/46.jpg);
+}​
